@@ -1,0 +1,26 @@
+img.food {
+    height: 250px;
+    width: auto;
+}
+.header {
+    background-color: orange;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1.header {
+    background-color: yellow;
+    font-family: Papyrus,fantasy;
+}
+.description {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ingredients li {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.steps {
+    color: green;
+    font-family: "Brush Script MT", cursive;
+}
